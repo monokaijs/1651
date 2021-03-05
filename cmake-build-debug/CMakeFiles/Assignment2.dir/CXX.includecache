@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/Company.h
+
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/SingletonDemo.cpp
+SingletonDemo.h
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/SingletonDemo.h
+iostream
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/iostream
+
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/SingletonDemo.h
+Company.h
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/Company.h
+string
+C:/Users/Admin/Google Drive/Learning/1651/Assignment2/string
+
